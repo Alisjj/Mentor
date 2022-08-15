@@ -1,9 +1,7 @@
 # Mentors Marketplace
 
 This project is a marketplace to find developers and freelancers. A mentor can invite you to join a session. Once a session is complete,
-clients can pay for the session using Stripe. Payouts to mentors are done using Stripe connect.
-
-You can learn how to build this project from scratch on [JustDjango](http://learn.justdjango.com). 
+clients can pay for the session using Stripe. Payouts to mentors are done using Stripe connect. 
 
 Here is an overview of the features:
 - See a list of mentors
